@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+.img-flex {
+	width:100%;
+	display:block;
+}
+.product {
+	background-color: #c7c0ae;
+	border-radius: 10px;
+	padding: 1em;

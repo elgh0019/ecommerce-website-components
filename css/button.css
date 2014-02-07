@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.btn,
+.btn:link,
+.btn:visited {
+	display: inline-block;
+	padding: 0.75rem 1rem;
+	background-color:#973284;
+	background-image:linear-gradient(to bottom, #793284, #571062);
+	border-radius: 6px;
+	box-shadow: 1px 1px 4px rgba (0,0,0,0.5);
+	border:0;
+	color:#fff;
+	font-weight:bold;
+}
+.btn-alt,
+.btn-alt:link,
+.bt-alt:visited {
+	background-color: #5d8432;
+	background-image: linear-gradient(to bottom,#5d8432, #3b6210);
+}
